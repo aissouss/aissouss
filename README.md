@@ -15,7 +15,7 @@ Passionate about data, causal analysis and building AI systems that are actually
 
 **Currently** finishing my BSc in Software Engineering & Information Systems at Université Internationale de Tunis.
 
-I work mainly with **Python** and enjoy everything around data — processing, analysis, visualization. I'm also drawn to AI, especially agentic systems and how LLMs can be put to practical use.
+I work mainly with **Python** and enjoy everything around data, processing, analysis and visualization. I'm also drawn to AI, especially agentic systems and how LLMs can be put to practical use.
 
 ---
 
@@ -24,7 +24,7 @@ I work mainly with **Python** and enjoy everything around data — processing, a
 **ScalTerminal** — Conversational AI agent for causal analysis *(Internship @ Scalnyx)*
 LangChain · LangGraph · Claude Sonnet 4 · Streamlit · OpenAPI
 
-**Anime Recommendation System** — TF-IDF & BERT · Streamlit · [→ repo](https://github.com/aissouss)
+**Anime Recommendation System** — TF-IDF & BERT · Streamlit · [→ repo](https://github.com/aissouss/anime-recommender)
 
 ---
 
