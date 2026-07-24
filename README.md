@@ -6,7 +6,7 @@
 
 Passionate about data, causal analysis and building AI systems that are actually useful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aissya--boukraa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aissya-boukraa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aissya--boukraa-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aissya-boukraa-21faa27)
 [![Email](https://img.shields.io/badge/aissya.boukraa@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aissya.boukraa@gmail.com)
 
 </div>
